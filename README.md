@@ -15,11 +15,6 @@ This project displays a birthday message with images and fun hover effects to ma
 - CSS3
 - Google Fonts
 
-## 📸 Screenshot
-![Birthday Website Screenshot](images/krish.jpg)
-
-> Make sure the `images` folder exists and contains the required images and GIFs.
-
 ## 📂 Project Structure
 birthday-project/
 │── index.html
